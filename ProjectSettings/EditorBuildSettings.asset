@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/finalSolarSystem.unity
+    guid: a23cbbdc9601019419803de3e3da524f
+  - enabled: 1
+    path: Assets/Scenes/Moon.unity
+    guid: 599f76cadb6f5b245a4733d972e12e39
+  - enabled: 1
+    path: Assets/Scenes/LunarLandscape3D.unity
+    guid: f4021bc829b444148a3959ec85eeeceb
+  - enabled: 1
+    path: Assets/Scenes/RoverMovingOnMoon.unity
+    guid: 35393a9ad3aac624d95d528e5662b16e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 34d9bbdb844d62746ad463eb6bffbe93, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9de03a1d7c7a624e9a61adbae5e6017, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 22ce2445ac8ad4b459d2a4c0dd1d9fa5, type: 2}
